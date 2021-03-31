@@ -1,3 +1,4 @@
 body{
-	background : url("https://postimg.cc/fkNKrjw8") cover;
+	background : url("https://postimg.cc/fkNKrjw8");
+	background-size : cover;
 }
